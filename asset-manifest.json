@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-table-context/static/css/main.1c189308.chunk.css",
+    "main.js": "/react-table-context/static/js/main.3883ec4f.chunk.js",
+    "main.js.map": "/react-table-context/static/js/main.3883ec4f.chunk.js.map",
+    "runtime~main.js": "/react-table-context/static/js/runtime~main.aaecc7c9.js",
+    "runtime~main.js.map": "/react-table-context/static/js/runtime~main.aaecc7c9.js.map",
+    "static/css/2.fcaa7271.chunk.css": "/react-table-context/static/css/2.fcaa7271.chunk.css",
+    "static/js/2.67cc42e4.chunk.js": "/react-table-context/static/js/2.67cc42e4.chunk.js",
+    "static/js/2.67cc42e4.chunk.js.map": "/react-table-context/static/js/2.67cc42e4.chunk.js.map",
+    "index.html": "/react-table-context/index.html",
+    "precache-manifest.8ab43b7132729f483f1918931faf8e97.js": "/react-table-context/precache-manifest.8ab43b7132729f483f1918931faf8e97.js",
+    "service-worker.js": "/react-table-context/service-worker.js",
+    "static/css/2.fcaa7271.chunk.css.map": "/react-table-context/static/css/2.fcaa7271.chunk.css.map",
+    "static/css/main.1c189308.chunk.css.map": "/react-table-context/static/css/main.1c189308.chunk.css.map",
+    "static/media/logo.svg": "/react-table-context/static/media/logo.ee7cd8ed.svg"
+  }
+}
